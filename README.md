@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**DroidPro/droidpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[https://camo.githubusercontent.com/7777981db0ec68887465c0acf65a96238db7e74c415036534d6d7499a4a7c746/68747470733a2f2f77696e6176696174696f6e2e6769746875622e696f2f6772616469656e742e706e67]
 
 Here are some ideas to get you started:
 

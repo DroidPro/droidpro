@@ -1,15 +1,17 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul style="list-style: none; padding: 0; margin: 0; display: inline-block;">
+    <summary>
+      <h1 style="display: inline; margin: 0;">Hi there 👋</h1>
+    </summary>
+  </ul>
+</div>
+<img src="https://winaviation.github.io/gradient.png" />
 
-[https://camo.githubusercontent.com/7777981db0ec68887465c0acf65a96238db7e74c415036534d6d7499a4a7c746/68747470733a2f2f77696e6176696174696f6e2e6769746875622e696f2f6772616469656e742e706e67]
+## 🔥 Big Projects
 
-Here are some ideas to get you started:
+- [Liquid Glass Tweak](https://github.com/DroidPro/liqadahh)
+- maybe more soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Donate me via:
+
+- SOON!!!
